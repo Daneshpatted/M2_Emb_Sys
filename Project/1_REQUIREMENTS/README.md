@@ -8,9 +8,9 @@ To provide 24-hour service to customers with no humans involved.
 The main components required in this project are shown in the below block diagram.
 
 
-## REQUIREMENTS
+# REQUIREMENTS
 
-High level requirements:
+## High level requirements:
 |RID| Description|
 |-----|----------|
 |HLR 1|Water will dispense if coin inserted is accepted|
@@ -19,7 +19,7 @@ High level requirements:
 
 
 
-Low level requirements:
+## Low level requirements:
 |RID| Description|
 |----|------------|
 |LLR 1|Coin sensor|
