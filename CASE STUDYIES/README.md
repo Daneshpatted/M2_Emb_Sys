@@ -1,9 +1,7 @@
 # CASE STUDY-1 (low level application)
 
+![weight measurement 2](https://user-images.githubusercontent.com/98831772/154840632-d4695296-df00-4d6f-a16e-eea468ce21de.png)
 
- 
-
-BLOCK- DAIGRAM
 
 ## EXPLANATION:
 1) Load Cell → 
