@@ -33,3 +33,6 @@
 -	If power is best filtered and regulated then working more effectively and life of circuits is improve.
 
 
+
+
+![AVWM](https://user-images.githubusercontent.com/98831772/154840728-1971e141-ef00-43ce-98bd-38738846f3df.png)
