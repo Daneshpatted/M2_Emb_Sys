@@ -7,3 +7,17 @@ This machine could be implemented in organizations like hospitals and colleges,e
 To provide 24-hour service to customers with no humans involved.
 The main components required in this project are shown in the below block diagram.
 
+
+## REQUIREMENTS
+
+High level requirements:
+
+HLR 1: Water will dispense if coin inserted is accepted.
+
+HLR 2: Water will dispense if smart card is scanned or read.
+
+
+Low level requirements:
+
+
+
