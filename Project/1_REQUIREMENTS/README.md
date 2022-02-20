@@ -11,13 +11,22 @@ The main components required in this project are shown in the below block diagra
 ## REQUIREMENTS
 
 High level requirements:
+|RID| Description|
+|-----|----------|
+|HLR 1|Water will dispense if coin inserted is accepted|
+|HLR 2|Water will dispense if smart card is scanned or read|
 
-HLR 1: Water will dispense if coin inserted is accepted.
 
-HLR 2: Water will dispense if smart card is scanned or read.
 
 
 Low level requirements:
-
+|RID| Description|
+|----|------------|
+|LLR 1|Coin sensor|
+|LLR 2|RFID Reader|
+|LLR 3|RFID Tag|
+|LLR 4|Solenoid valve|
+|LLR 5|Flow sensor|
+|LLR 6|LCD display|
 
 
