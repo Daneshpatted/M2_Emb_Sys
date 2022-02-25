@@ -13,5 +13,11 @@
     
     
   ## ABSTRACT 
-    Smart car parking project aims at providing a confusion free and easy parking. 
-    This project helps the drivers of the cars to park their vehicles with minimum wastage of time with accurate information of the availability of the space to park
+      Automatic Smart car parking projects aims at providing a confusion free and easy parking. This concept helps the drivers of the cars to park their vehicles with minimum wastage of time with accurate information of the availability of the space to park vehicle.
+  
+  
+  
+  
+  
+  
+    
