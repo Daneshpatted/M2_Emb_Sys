@@ -57,9 +57,10 @@ space. The procedure for the exit of the cars is similar as
 the entry.
 -----
 ## 1.4 S.W.O.T analysis
+![SWOT](https://user-images.githubusercontent.com/98831772/155770786-3a558fd6-2ec1-42ae-9a45-ab5a8061d2e3.png)
+-------
+## 1.5 5W's & 1H
 
-  
-  
   
   
     
