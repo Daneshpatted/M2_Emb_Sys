@@ -60,7 +60,23 @@ the entry.
 ![SWOT](https://user-images.githubusercontent.com/98831772/155770786-3a558fd6-2ec1-42ae-9a45-ab5a8061d2e3.png)
 -------
 ## 1.5 5W's & 1H
-
+1) what ?
+  * the automatic parking system aims to enhance the comfort and safety of driving in constrained environments.
+2) who ?
+  * person who need's to be parking
+3) why ?
+  * it mainly focuses on reducing the time in finding the parking lots in the parking area.
+4) when ?
+  * APS is used to navigate the driver to reach the desired space and in an effective manner, thus reducing search time.  
+5) where ?
+  * APS is required for malls,hospitals,IT companyies,restaurants,etc...
+6) how ?
+  * In APS the cars entering and exiting with sensors and actuators process.
+  --------
+ 
+ 
+  # 3. Block Diagram and Blocks explination
+  
   
   
     
