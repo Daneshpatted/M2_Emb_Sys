@@ -21,7 +21,7 @@
 1. Test plan and Output
     1. High level test plan
     1. Low level test plan
-1. Application
+1. Application and Advantages
 ---------
       
   # 1. About the AUTOMATIC CAR PARKING SYSTEM
@@ -95,11 +95,22 @@ the entry.
  * ### LCD Display
      * LCD screen is flat-panel display, electronic visual display that uses the light-modulating properties of liquid crystals and LCD's are available to display arbitrary images,preset words,digits,and 7-segment displays.
      -------
-  ##  Micro controller and memory
+  ## 3.4 Micro controller and memory
   * ### EEPROM
     * Here this is actually inside the microcontroller.
 * ### Micro Controller 
     * This is the brain of the system here we use arduino uno every computation is done inside this controller it converts analog to digital and maps certain values, it controls LCD display, it sends PWM signals to servo motor.
+     -------
+     
+     
+# 5. Applications and advantages
+* The advantage of automated car parking are efficient usage of spaces.
+* And decreasing the land space and increasing the number of parked vehicles,saving time.
+* Providing security and safety for the car from theft and damages while parking.
+* The automatic car parking system could be used for residential buildings,hotels,offices,shopping center,show rooms,universities,government buildings,airports,hospitals,and stadium,etc.
+* The scope of this project is vast in the area automatic of car parking and vehicle security. 
+
+     
 
   
   
