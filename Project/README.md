@@ -7,7 +7,8 @@
     1. Description
     1. Identifying features
     1. State of art
-    1. 5W's & 1H and S.W.O.T analysis
+    2. S.W.O.T analysis
+    3. 5W's & 1H
 1. Requirements
     1. High level requirements
     1. Low level requirements
@@ -22,10 +23,7 @@
     1. Low level test plan
 1. Application
 ---------
-   
-    
-    
-    
+      
   # 1. About the AUTOMATIC CAR PARKING SYSTEM
   ## 1.1 Description
   * Automatic Smart car parking project aims at providing a confusion free and easy parking. This concept
@@ -39,7 +37,10 @@ This project is developed using micro-controller arduino uno.
  ------    
  
  ## 1.2 Identifying features
- *
+ * Servo motor shall be provided to enter and exit of the car.
+* Automatic gate opening and closing shall be provided  by gate sensor along with IR signal.
+* LCD Display shall be provided to know the working of the system.
+* IR sensor shall be provided to detect the car that comes in front of the gate.
  -------
   ## 1.3 State of art 
    * An automated parking system is a area or volume required for parking cars. 
@@ -55,6 +56,8 @@ accordingly it increments and decrement the count and opens the gate if there is
 space. The procedure for the exit of the cars is similar as
 the entry.
 -----
+## 1.4 S.W.O.T analysis
+
   
   
   
