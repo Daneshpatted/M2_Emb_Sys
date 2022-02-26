@@ -1,4 +1,11 @@
- ## 3.2 Sensors
+
+
+ # 3. Block Diagram and Blocks explination
+   ## 3.1 Block daigram
+  
+  ![Untitled Diagram](https://user-images.githubusercontent.com/98831772/155781662-5d3a7bac-73cc-4588-a772-1342c4873179.png)
+--------
+## 3.2 Sensors
  * ### Infrared sensor
      * IR sensor which emits in order to sense some aspects of the surroundings.and it can can measure the heat of an object-as well as detects the motion.
  * ### Gate sensor
