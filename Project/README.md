@@ -22,6 +22,7 @@
     1. High level test plan
     1. Low level test plan
 1. Application and Advantages
+2. References
 ---------
       
   # 1. About the AUTOMATIC CAR PARKING SYSTEM
@@ -158,6 +159,9 @@ the entry.
 * The scope of this project is vast in the area automatic of car parking and vehicle security. 
 ---------------------
 
+# 6. References
+* https://www.ijntr.org/download_data/IJNTR03060017.pdf
+* https://www.academia.edu/47530229/AUTOMATIC_CAR_PARKING_SYSTEM
      
 
   
