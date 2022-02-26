@@ -41,7 +41,7 @@ This project is developed using micro-controller arduino uno.
 * Automatic gate opening and closing shall be provided  by gate sensor along with IR signal.
 * LCD Display shall be provided to know the working of the system.
 * IR sensor shall be provided to detect the car that comes in front of the gate.
- -------
+ -----------------
   ## 1.3 State of art 
    * An automated parking system is a area or volume required for parking cars. 
   Automated Parking System provides parking for cars on multiple levels stacked 
@@ -56,9 +56,11 @@ accordingly it increments and decrement the count and opens the gate if there is
 space. The procedure for the exit of the cars is similar as
 the entry.
 -----
+
 ## 1.4 S.W.O.T analysis
 ![SWOT](https://user-images.githubusercontent.com/98831772/155770786-3a558fd6-2ec1-42ae-9a45-ab5a8061d2e3.png)
--------
+------------------
+
 ## 1.5 5W's & 1H
 1) what ?
   * the automatic parking system aims to enhance the comfort and safety of driving in constrained environments.
@@ -117,10 +119,10 @@ the entry.
     * Here this is actually inside the microcontroller.
 * ### Micro Controller 
     * This is the brain of the system here we use arduino uno every computation is done inside this controller it converts analog to digital and maps certain values, it controls LCD display, it sends PWM signals to servo motor.
-     ------- 
+     ---------------------
      
-      #  4.Test plan and Output
-     
+      
+   # 4. Testplan and output 
    
    ## 4.1 HIGH LEVEL TEST PLAN
 
@@ -145,6 +147,8 @@ the entry.
 | 01 |Check for ADC_Read()|To be done |To be done|To be done |To be done|
 | 02 |Check for ADC_Read()|To be done|To be done|To be done|To be done|
 
+----------------------------------
+
      
 # 5. Applications and Advantages
 * The advantage of automated car parking are efficient usage of spaces.
@@ -152,6 +156,7 @@ the entry.
 * Providing security and safety for the car from theft and damages while parking.
 * The automatic car parking system could be used for residential buildings,hotels,offices,shopping center,show rooms,universities,government buildings,airports,hospitals,and stadium,etc.
 * The scope of this project is vast in the area automatic of car parking and vehicle security. 
+---------------------
 
      
 
