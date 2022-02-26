@@ -162,6 +162,7 @@ the entry.
 # 6. References
 * https://www.ijntr.org/download_data/IJNTR03060017.pdf
 * https://www.academia.edu/47530229/AUTOMATIC_CAR_PARKING_SYSTEM
+---------
      
 
   
