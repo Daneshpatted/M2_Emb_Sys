@@ -4,6 +4,7 @@
    ## 3.1 Block daigram
   
   ![Untitled Diagram](https://user-images.githubusercontent.com/98831772/155781662-5d3a7bac-73cc-4588-a772-1342c4873179.png)
+  
 --------
 ## 3.2 Sensors
  * ### Infrared sensor
@@ -25,3 +26,9 @@
 * ### Micro Controller 
     * This is the brain of the system here we use arduino uno every computation is done inside this controller it converts analog to digital and maps certain values, it controls LCD display, it sends PWM signals to servo motor.
      ---------------------
+## 3.5 Flow chart
+
+![CARparkFC](https://user-images.githubusercontent.com/98831772/155834454-6f89fee3-2eca-4dbc-a2d1-6ee1d5007b8c.png)
+
+
+---
