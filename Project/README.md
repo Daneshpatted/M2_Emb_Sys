@@ -74,7 +74,24 @@ the entry.
   * In APS the cars entering and exiting with sensors and actuators process.
   --------
  
- 
+ # 2. Requirements
+
+## 2.1 High Level Requirements
+
+| ID | High Level Requirements |
+| -------- | -------------- |
+|HLR 1|It shall controll automatic entry and exit of the car.|
+|HLR 2|It shall count the available space for parking.|
+
+## 2.2 Low Level Requirements
+
+| ID | Low Level Requirements for HLR 1|       |ID | Low Level Requirements for HLR 2|
+| ----- | ----- | ---- |----- | ----- |
+|LLR 1.1|SERVO motor operates based on the instructions of IR signal|                               |LLR 2.1|Ultra sonic sensor count the available space for parking| 
+|LLR 1.2| IR sensor detects the motion of the car|                                                  |LLR 2.2|LCD display's output of working for the instructions of sensors|
+|LLR 1.3|Gate sensor to  automaticaly open and close gate based on the instruction of IR signal|
+----------------
+
   # 3. Block Diagram and Blocks explination
    ## 3.1 Block daigram
   
@@ -100,10 +117,36 @@ the entry.
     * Here this is actually inside the microcontroller.
 * ### Micro Controller 
     * This is the brain of the system here we use arduino uno every computation is done inside this controller it converts analog to digital and maps certain values, it controls LCD display, it sends PWM signals to servo motor.
-     -------
+     ------- 
      
+      #  4.Test plan and Output
      
-# 5. Applications and advantages
+   
+   ## 4.1 HIGH LEVEL TEST PLAN
+
+| Test ID | Description | Input | Expected output | Actual Output | Passed Or Not |
+| --- | --- | --- | --- | --- | --- |
+|1|servo motor|5v suuply|rotate motor|rotate motor|To be done|
+|2|IR sensor|5v supply|detect motion|detect motion|To be done|
+|3| Gate sensor|supply|opening and closeing gate |opening and closeing gate|To be done|
+|4|ultrasonic sensor|supply|detect space|detect space|To be done|
+
+
+  ##  4.2 LOW LEVEL TEST PLAN
+
+| Test ID(LCD) | Description | Input | Expected output | Actual Output | Passed Or Not |
+| --- | --- | --- | --- | --- | --- |
+| 01 |Check for LCD_Char()|C|C|C|To be done|
+| 02 |Check for LCD_String()|Automatic|Automatic|Automatic|To be done|
+
+
+| Test ID (ADC)| Description | Input | Expected output | Actual Output | passed/not |
+| --- | --- | --- | --- | --- | --- |
+| 01 |Check for ADC_Read()|To be done |To be done|To be done |To be done|
+| 02 |Check for ADC_Read()|To be done|To be done|To be done|To be done|
+
+     
+# 5. Applications and Advantages
 * The advantage of automated car parking are efficient usage of spaces.
 * And decreasing the land space and increasing the number of parked vehicles,saving time.
 * Providing security and safety for the car from theft and damages while parking.
