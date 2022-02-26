@@ -17,6 +17,7 @@
     1. Sensors
     1. Actuators
     1. Micro controller and memory
+    2. Flow chart
     
 1. Test plan and Output
     1. High level test plan
@@ -120,7 +121,13 @@ the entry.
 * ### Micro Controller 
     * This is the brain of the system here we use arduino uno every computation is done inside this controller it converts analog to digital and maps certain values, it controls LCD display, it sends PWM signals to servo motor.
      ---------------------
-     
+ 
+ ## 3.5 Flow chart
+  
+  ![CARparkFC](https://user-images.githubusercontent.com/98831772/155834454-6f89fee3-2eca-4dbc-a2d1-6ee1d5007b8c.png)
+
+
+---
       
    # 4. Testplan and output 
    
@@ -142,7 +149,7 @@ the entry.
 | 02 |Check for LCD_String()|Automatic|Automatic|Automatic|To be done|
 
 
-| Test ID (ADC)| Description | Input | Expected output | Actual Output | passed/not |
+| Test ID (ADC)| Description | Input | Expected output | Actual Output | passed or not |
 | --- | --- | --- | --- | --- | --- |
 | 01 |Check for ADC_Read()|To be done |To be done|To be done |To be done|
 | 02 |Check for ADC_Read()|To be done|To be done|To be done|To be done|
