@@ -15,7 +15,7 @@
 | Test ID(LCD) | Description | Input | Expected output | Actual Output | Passed Or Not |
 | --- | --- | --- | --- | --- | --- |
 | 01 |Check for LCD_Char()|C|C|C|pass|
-| 02 |Check for LCD_String()|Automatic|Automatic|Automatic|pass|
+| 02 |Check for LCD_String()|Parking|Parking|Parking|pass|
 
 
 | Test ID (ADC)| Description | Input | Expected output | Actual Output | passed/not |
