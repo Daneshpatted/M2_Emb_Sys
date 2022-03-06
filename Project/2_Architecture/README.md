@@ -35,6 +35,8 @@
 
 ## 3.6 UML Diagram
 
+![uml](https://user-images.githubusercontent.com/98831772/156926885-f13da2f1-21c2-4f00-a89f-cc05442899d8.png)
+
 
 -------------------
 
