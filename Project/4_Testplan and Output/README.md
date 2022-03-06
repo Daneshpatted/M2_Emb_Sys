@@ -26,6 +26,15 @@
 ----------------------------------
 
  - # Output
+ 
 ## Circuit Simulation
+
+![ckt](https://user-images.githubusercontent.com/98831772/156919135-de71bf45-d3d1-4be2-b37f-ac487f7478b5.PNG)
+
+
+
+## workflow of automatic car parking system
+
+1.
 
 
