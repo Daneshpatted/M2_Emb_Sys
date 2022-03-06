@@ -1,4 +1,4 @@
-  # 4. Testplan and output 
+  # 4. Testplan  
    
    ## 4.1 HIGH LEVEL TEST PLAN
 
@@ -24,4 +24,8 @@
 | 02 |Check for DAC_Read()|supply|transfer signal|transfer signal|pass|
 
 ----------------------------------
+
+ - # Output
+## Circuit Simulation
+
 
