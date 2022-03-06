@@ -41,6 +41,10 @@
 
 * ###  (example) One car exited from the parking system
 
+![exiting](https://user-images.githubusercontent.com/98831772/156920602-73193335-4a99-458e-a1d7-f48e38cb04be.PNG)
+
+
+
 
 
 * ### ( example) Parking system is full
