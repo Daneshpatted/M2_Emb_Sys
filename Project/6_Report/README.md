@@ -18,6 +18,8 @@
     1. Actuators
     1. Micro controller and memory
     2. Flow chart
+    3. UML daigram
+    4. Use case structural daigram
     
 1. Test plan and Output
     1. High level test plan
