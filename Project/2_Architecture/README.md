@@ -31,4 +31,14 @@
 ![CARparkFC](https://user-images.githubusercontent.com/98831772/155834454-6f89fee3-2eca-4dbc-a2d1-6ee1d5007b8c.png)
 
 
----
+----
+
+## 3.6 UML Diagram
+
+
+-------------------
+
+## 3.7 Use case structural Diagram
+
+
+---------------------------
