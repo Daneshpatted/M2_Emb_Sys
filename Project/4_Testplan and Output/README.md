@@ -35,9 +35,15 @@
 
 ## Workflow of automatic car parking system
 
-* ### Two cars entered in the parking system
+* ### (example) Two cars entered in the parking system
+
+![entering](https://user-images.githubusercontent.com/98831772/156920013-84df4ca3-924f-4b2e-a479-036ab2474640.PNG)
+
+* ###  (example) One car exited from the parking system
 
 
+
+* ### ( example) Parking system is full
 
 
 
