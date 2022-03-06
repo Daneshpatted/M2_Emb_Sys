@@ -131,6 +131,19 @@ the entry.
 
 
 ---
+## 3.6 UML Diagram
+
+![uml](https://user-images.githubusercontent.com/98831772/156926885-f13da2f1-21c2-4f00-a89f-cc05442899d8.png)
+
+
+-------------------
+
+## 3.7 Use case structural Diagram
+
+![use case](https://user-images.githubusercontent.com/98831772/156926917-c20e2758-2d7c-4170-a3c4-c9a83efe4cce.png)
+
+
+---------------------------
       
    # 4. Testplan and output 
    
