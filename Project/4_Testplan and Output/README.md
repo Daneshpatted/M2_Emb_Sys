@@ -6,8 +6,7 @@
 | --- | --- | --- | --- | --- | --- |
 |1|servo motor| suuply|rotate motor|rotate motor|pass|
 |2|IR sensor| supply|detect motion|detect motion|pass|
-|3| Gate sensor|supply|opening and closeing gate |opening and closeing gate|pass|
-|4|ultrasonic sensor|supply|detect space|detect space|pass|
+|3|ultrasonic sensor|supply|detect space|detect space|pass|
 
 
   ##  4.2 LOW LEVEL TEST PLAN
