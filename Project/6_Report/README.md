@@ -107,8 +107,7 @@ the entry.
  ## 3.2 Sensors
  * ### Infrared sensor
      * IR sensor which emits in order to sense some aspects of the surroundings.and it can can measure the heat of an object-as well as detects the motion.
- * ### Gate sensor
-     * It consists of one reed switch and one magnet creating a close circuit.if IR sensor gives signal that magnet awy from the switch which breaks the circuit and triggers when the gate is in open state the function will won't work,it works only when it is closed state.
+
  * ### Ultrasonic sensor
      * It is economical sensor provides 2.5cm to 400cm of non-contact measurement functionality with a ranging accuracy that can reach upto 3mm.and it includes an ultrasonic transmitter,a receiver and a control circuit.
  --------
