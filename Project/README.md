@@ -92,7 +92,7 @@ the entry.
 | ----- | ----- | ---- |----- | ----- |
 |LLR 1.1|SERVO motor operates based on the instructions of IR signal|                               |LLR 2.1|Ultra sonic sensor count the available space for parking| 
 |LLR 1.2| IR sensor detects the motion of the car|                                                  |LLR 2.2|LCD display's output of working for the instructions of sensors|
-|LLR 1.3|Gate sensor to  automaticaly open and close gate based on the instruction of IR signal|
+
 ----------------
 
   # 3. Block Diagram and Blocks explination
