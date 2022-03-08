@@ -144,6 +144,13 @@ the entry.
 
 
 ---------------------------
+
+## 3.8 Schemetic Diagram
+
+![schemetic](https://user-images.githubusercontent.com/98831772/157231052-3d1dd63c-0739-46d9-b0c4-a05358cde329.png)
+
+--------------------------
+
    # 4. Testplan  
    
    ## 4.1 HIGH LEVEL TEST PLAN
